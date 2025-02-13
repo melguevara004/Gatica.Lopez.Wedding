@@ -13507,6 +13507,66 @@ body.offcanvas {
   background-position: center center;
   width: 100%;
 }
+.cormorant-garamond-light {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.cormorant-garamond-regular {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cormorant-garamond-medium {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.cormorant-garamond-semibold {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.cormorant-garamond-bold {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.cormorant-garamond-light-italic {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.cormorant-garamond-regular-italic {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.cormorant-garamond-medium-italic {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.cormorant-garamond-semibold-italic {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.cormorant-garamond-bold-italic {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
 
 .heading {
   margin-bottom: 4em;
@@ -13517,7 +13577,7 @@ body.offcanvas {
 .heading h2, .heading .h2 {
   margin-bottom: 10px;
   line-height: 1.5;
-  font-family: "Great Vibes", cursive;
+  font-family: "Cormorant Garamond", serif;
   font-size: 50px;
   color: #000;
 }
@@ -13889,7 +13949,7 @@ img {
 
 /* Countdown */
 .countdown.section {
-  background-image: url(../images/countdown-bg.jpg);
+  background-image: url(../images/image2.jpeg);
 }
 .countdown .heading {
   margin-bottom: 8em;
